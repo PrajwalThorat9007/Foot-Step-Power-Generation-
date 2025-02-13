@@ -27,3 +27,5 @@ Resistors:
 - LED Strip (3V LEDs) – 1 unit (For power indication)
  
 This list covers all essential components needed to build and operate the footstep power generation system.
+
+Circuit Diagram
