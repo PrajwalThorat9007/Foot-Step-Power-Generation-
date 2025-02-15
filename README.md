@@ -29,5 +29,13 @@ Resistors:
 This list covers all essential components needed to build and operate the footstep power generation system.
 
 Circuit Diagram
-It is provided in repositry
+It is provided in repositry.
+
+Step by step procedure
+Diodes (1N4007):
+1st diode: Cathode (e6) to Anode (f6) .
+2nd diode: Anode (g6) to Cathode (g9).
+3rd diode: Anode (d6) to Cathode (d9).
+4th diode: Anode (f9) to Cathode (e9).
+
 
