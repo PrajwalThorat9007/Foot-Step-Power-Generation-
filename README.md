@@ -33,9 +33,15 @@ It is provided in repositry.
 
 Step by step procedure
 Diodes (1N4007):
-1st diode: Cathode (e6) to Anode (f6) .
-2nd diode: Anode (g6) to Cathode (g9).
-3rd diode: Anode (d6) to Cathode (d9).
-4th diode: Anode (f9) to Cathode (e9).
+-1st diode: Cathode (e6) to Anode (f6) .
+-2nd diode: Anode (g6) to Cathode (g9).
+-3rd diode: Anode (d6) to Cathode (d9).
+-4th diode: Anode (f9) to Cathode (e9).
+
+Capacitors and Resistors:
+-10uF capacitor: Negative terminal to g14 and d14.
+-100kΩ resistor: Connected between a14 and a19.
+-10kΩ resistor: Connected between b19 and b23.
+-1kΩ resistor: Connected between e24 and f24.
 
 
