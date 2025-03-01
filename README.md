@@ -44,4 +44,9 @@ Capacitors and Resistors:
 -10kΩ resistor: Connected between b19 and b23.
 -1kΩ resistor: Connected between e24 and f24.
 
+Transistor (BC547):
+-Emitter: Connected to a23.
+-Base: Connected to a24. 
+-Collector: Connected to a25.
+
 
